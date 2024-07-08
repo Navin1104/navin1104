@@ -14,6 +14,37 @@
 
 - 📫 How to reach me **gknavin40@gmail.com**
 
+### 💼 Skills
+
+- *Programming Languages*: Beginner in Python and Java.
+- *Development Tools*: Experienced with GitHub and VS Code
+- *Cloud & DevOps*: Skilled in AWS (EC2, Amplify, S3, CloudFront, Route 53), CI/CD Pipelines, Linux Commands, and Networking.
+- *Other Skills*: Adobe Photoshop, Adobe Illusulator and Adobe premiere pro.
+
+### 🔥 Projects
+
+1. *Deployed SREC Website Using Cloud*
+   - *Description*: Deploying the SREC Website using AWS services like
+Amplify/LightSail, S3, CloudFront, and Route 53 for
+scalable and seamless implementation TOOLS:
+Easy to instance, Amplify/Light sail, S3, Cloud Front,
+Route 53
+
+2. *Deployed E-Commerce Website (Amazon)*
+   - *Description*: Working with the wider development team.
+Manage website design, content, and SEO
+Marketing, Branding and Logo Design
+
+3. *Suggested CI for SREC Website*
+   - *Description*: Implementing CI for the SREC website to ensure
+immediate updates across all instances when the
+developer makes changes.
+
+4. *JAVA/.NET/NODE JS Cloud Environment*
+   - *Description*: Implementing a cloud environment for
+Java/.NET/Node.js on both Ubuntu and Windows
+platforms.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" height="30" width="40" /></a>
